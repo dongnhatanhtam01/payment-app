@@ -1,0 +1,35 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.container>.mat-grid-list {
+    background: blue;
+    padding-bottom: 0 !important
+}
+
+.GFG {
+    
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    text-align: left;
+    margin: 13% 0;
+    min-height: 300px;
+    background-color:green;
+    align-items: left;
+}
